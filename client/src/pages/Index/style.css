@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://dynamicwallpaper.club/landing-vids/1.png);
+  width: 100%;
+  height: 700px;
+  background-size: 100% 100%;
+}
+
+h1 {
+  color: lightgray;
+}
+
+p {
+  color: gray;
+}
+
+.main {
+  position: relative;
+  top: 220px;
+}

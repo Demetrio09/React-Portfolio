@@ -1,0 +1,49 @@
+{
+  "home": {
+    "style": "home.css",
+    "navTheme": "",
+    "navLinkOne": "about",
+    "navBtOne": "About",
+    "navLinkTwo": "portfolio",
+    "navBtTwo": "Portfolio",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "class=\"fixed-bottom\""
+  },
+  "about": {
+    "title": "| About",
+    "style": "",
+    "navTheme": "bg-dark",
+    "navLinkOne": "/",
+    "navBtOne": "Home",
+    "navLinkTwo": "portfolio",
+    "navBtTwo": "Portfolio",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "'class='bottom bg-dark''"
+  },
+  "portfolio": {
+    "title": "| Portfolio",
+    "style": "",
+    "navTheme": "bg-dark",
+    "navLinkOne": "/",
+    "navBtOne": "Home",
+    "navLinkTwo": "about",
+    "navBtTwo": "About",
+    "navLinkThree": "contact",
+    "navBtThree": "Contact",
+    "footerClass": "'class='bottom bg-dark''"
+  },
+  "contact": {
+    "title": "| Contact",
+    "style": "",
+    "navTheme": "bg-dark",
+    "navLinkOne": "/",
+    "navBtOne": "Home",
+    "navLinkTwo": "portfolio",
+    "navBtTwo": "Portfolio",
+    "navLinkThree": "about",
+    "navBtThree": "About",
+    "footerClass": "'class='bottom bg-dark''"
+  }
+}

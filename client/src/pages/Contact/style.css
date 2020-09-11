@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Belleza&family=Prata&display=swap");
+
+.form-group {
+  color: white;
+}
+
+label {
+  font-family: "Belleza", sans-serif;
+  font-size: 24px;
+}
