@@ -16,7 +16,7 @@ Now that I've worked with React and have multiple projects to share, I updated m
 
 - Mobile-first design
 
-- Choosed a color palette for your site so it doesn't just look like
+- Choosed a color palette for my site so it doesn't just look like
   the default bootstrap theme or an unstyled HTML site.
 
 - Making sure the font size is large enough to read, and that the colors don't cause eye strain.
