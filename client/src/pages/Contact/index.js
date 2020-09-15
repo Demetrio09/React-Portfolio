@@ -18,6 +18,7 @@ const Contact = (props) => {
       .then(
         (result) => {
           console.log(result.text);
+          alert("Message Send");
         },
         (error) => {
           console.log(error.text);
